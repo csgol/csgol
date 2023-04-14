@@ -1,4 +1,4 @@
-![Github Banner](img/computer-desk.gif)
+![Github Banner](computer-desk.gif)
 
 <hr>
 
