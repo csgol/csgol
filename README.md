@@ -10,7 +10,7 @@
 - 📚 - Always Learning
 - ☕️ - Current Student
 - 💻 - I'm a application analyst with a focus on Frontend Development, IT & Security
-- 🔭 I’m working on **AWS**!
+- 🔭 I’m working on **Security+**!
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!--<p align="center">-->
