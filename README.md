@@ -8,9 +8,9 @@
 ---
 
 - 📚 - Always Learning
-- ☕️ - Current Student
-- 💻 - I'm a application analyst with a focus on Frontend Development, IT & Security
-- 🔭 I’m working on **C++**!
+- ☕️ - Current CS Student
+- 💻 - I'm a developer with a focus on C++, Frontend Development, IT & Security
+- 🔭 I’m currently working on **C++**!
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!--<p align="center">-->
