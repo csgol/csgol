@@ -8,8 +8,8 @@
 ---
 
 - 📚 - Always Learning
-- ☕️ - Current CS Student
-- 💻 - I'm a developer with a focus on C++, Frontend Development, IT & Security
+- ☕️ - Current Student
+- 💻 - Focusing on C++, IT, & Security
 - 🔭 I’m currently working on **C++**!
 
 <!--<h3 align="left">Connect with me:</h3>-->
