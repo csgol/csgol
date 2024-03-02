@@ -10,7 +10,7 @@
 - 📚 - Always Learning
 - ☕️ - Current Student
 - 💻 - Focusing on C++, IT, & Security
-- 🔭 I’m currently working on **C++**!
+- 🔭 I’m currently working on **C++ & C#**!
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!--<p align="center">-->
