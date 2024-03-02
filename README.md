@@ -9,7 +9,7 @@
 
 - 📚 - Always Learning
 - ☕️ - Current Student
-- 💻 - Focusing on C++, IT, & Security
+- 💻 - Focusing on Programming, GameDev, IT, & Security
 - 🔭 I’m currently working on **C# & C++**
 
 <!--<h3 align="left">Connect with me:</h3>-->
