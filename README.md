@@ -9,8 +9,8 @@
 
 - 📚 - Always Learning
 - ☕️ - Current Student
-- 💻 - Focusing on Programming, GameDev, IT, & Security
-- 🔭 I’m currently working on **C# & C++**
+- 💻 - Focusing on Programming, IT, & Cyber Security
+- 🔭 I’m currently working on **Offensive Security**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!--<p align="center">-->
