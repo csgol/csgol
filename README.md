@@ -49,9 +49,9 @@
 
 <!----- -->
 
-<!--[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csagold&show_icons=true&locale=en" alt="csa" /></p>)-->
+[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csagold&show_icons=true&locale=en" alt="csa" /></p>)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csagold&theme=solarized-dark&hide_border=true" alt="csa" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csagold&theme=solarized-dark&hide_border=true" alt="csa" /></p> -->
 
 ---
 
