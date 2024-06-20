@@ -38,20 +38,20 @@
 [comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csagold&show_icons=true&theme=solarized-dark&#41; )
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csagold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csgol&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
  </a></p>
 
 ---
 
-<!--<p align="center"><a href="https://github.com/anuraghazra/convoychat">
+<p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img width="425px" src="https://github-readme-stats.vercel.app/api?username=bootemple&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
-</a></p>-->
+</a></p>
 
 <!----- -->
 
 [comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csagold&show_icons=true&locale=en" alt="csa" /></p>)
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csagold&theme=solarized-dark&hide_border=true" alt="csa" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csgol&theme=solarized-dark&hide_border=true" alt="csa" /></p> 
 
 <!--- -->
 
