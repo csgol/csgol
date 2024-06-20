@@ -7,8 +7,8 @@
 
 ---
 
-- 📚 - Always Learning
 - ☕️ - Current Cyber Security Graduate Student
+- 📚 - Always Learning
 - 💻 - Focusing on Threat Intelligence
 - 🔭 I’m currently working on **Offensive Security**
 
