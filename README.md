@@ -37,9 +37,9 @@
 
 [comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csagold&show_icons=true&theme=solarized-dark&#41; )
 
-<!--<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csagold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
- </a></p>-->
+ </a></p>
 
 ---
 
