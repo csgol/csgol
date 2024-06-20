@@ -43,9 +43,11 @@
 
 ---
 
-<p align="center"><a href="https://github.com/anuraghazra/convoychat">
+<p align="center"><a href="https://github.com/csgol/convoychat">
   <img width="425px" src="https://github-readme-stats.vercel.app/api?username=bootemple&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
 </a></p>
+
+---
 
 <!----- -->
 
