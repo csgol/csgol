@@ -1,4 +1,4 @@
-![Github Banner](coding.gif)
+![Github Banner](pc.gif)
 
 <hr>
 
@@ -8,8 +8,8 @@
 ---
 
 - 📚 - Always Learning
-- ☕️ - Current Student
-- 💻 - Focusing on Programming, IT, & Cyber Security
+- ☕️ - Current Cyber Security Graduate Student
+- 💻 - Focusing on Threat Intelligence
 - 🔭 I’m currently working on **Offensive Security**
 
 <!--<h3 align="left">Connect with me:</h3>-->
