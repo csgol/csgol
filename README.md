@@ -9,6 +9,7 @@
 
 - ☕️ - Current Cyber Security Graduate Student
 - 📚 - Always Learning
+- 📝 Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on Threat Intelligence
 - 🔭 I’m currently working on **Offensive Security**
 
