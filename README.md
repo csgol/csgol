@@ -21,7 +21,15 @@
 <!--</p>-->
 
 ---
+###
+<!-- Projects -->
+<h3 align="left">⚙️Recent Projects</h3>
 
+* [Threat Fetch](https://github.com/csgol/ThreatFetch)
+* [News Scraper](https://github.com/csgol/news-scraper-2.0)
+* [Pokemon API Mobile App](https://github.com/csgol/pokemon-api-react-native)
+
+###
 <!-- <h3 align="center">Certifications:</h3>
 <img src="/img/aws.png" alt="AWS Cloud Practitioner" width="130" height="130" align="center"> -->
 
