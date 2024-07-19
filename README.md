@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1 align="left">Hello World I'm Chris 👋</h1>
+<h1 align="left">Hello World</h1>
 <!-- <h3 align="left">Software Development - IT - Cybersecurity</h3> -->
 
 <!-- <div align="center">
@@ -16,8 +16,8 @@
 
 
 <!-- Typing SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure" alt="Typing SVG" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=I'm+Chris+👋" alt="Typing SVG" />
 </div>
 ---
 
