@@ -1,4 +1,4 @@
-<div align="center"> ![Github Banner](pc2.gif) </div>
+![Github Banner](pc2.gif)
 
 <hr>
 
@@ -16,7 +16,7 @@
 
 
 <!-- Typing SVG -->
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=I'm+Chris+👋" alt="Typing SVG" />
 </div>
 ---
