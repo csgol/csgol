@@ -1,5 +1,7 @@
-![Github Banner](pc2.gif)
-
+<!-- ![Github Banner](pc2.gif)-->
+<div align="center">
+  <img height="200" src="./pc2.gif" />
+</div>
 <hr>
 
 <h1 align="center">Hello World</h1>
