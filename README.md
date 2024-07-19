@@ -89,6 +89,16 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csgol&theme=solarized-dark&hide_border=true" alt="csa" /></p> 
 
+---
+
+###
+
+<!-- Visitor count -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/csgol/count.svg?"  />
+</div>
+
+###
 <!--- -->
 
 <!-- Platform
