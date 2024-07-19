@@ -5,6 +5,20 @@
 <h1 align="left">Hello World I'm Chris 👋</h1>
 <!-- <h3 align="left">Software Development - IT - Cybersecurity</h3> -->
 
+<!-- <div align="center">
+  <a href="https://www.linkedin.com/in/damitas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/iruldanet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+</div> -->
+
+
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure" alt="Typing SVG" />
+</div>
 ---
 
 - ☕️ - Current Cyber Security Graduate Student
@@ -44,7 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-<img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+<!-- <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  /> -->
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </a></a></p>
