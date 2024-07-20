@@ -6,16 +6,17 @@
 
 <h1 align="center">Hello World!</h1>
 
-<!-- <h3 align="left">Software Development - IT - Cybersecurity</h3> -->
+<h3 align="left">- Cybersecurity Student</h3>
 
-<!-- <div align="center">
-  <a href="https://www.linkedin.com/in/damitas" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/chrisagold" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://tryhackme.com/p/iruldanet" target="_blank">
+</div>
+<!--   <a href="https://tryhackme.com/p/iruldanet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div> -->
+  </a> -->
+<!-- </div>  -->
 
 
 <!-- Typing SVG -->
