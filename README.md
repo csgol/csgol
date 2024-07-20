@@ -31,6 +31,8 @@
 - 💻 - Focusing on Threat Intelligence
 - 🔭 I’m currently working on **Offensive Security**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
