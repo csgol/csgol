@@ -50,6 +50,19 @@
 * [News Scraper](https://github.com/csgol/news-scraper-2.0)
 
 ###
+
+---
+###
+<!-- Certifications -->
+<h3 align="left">Certifications</h3>
+
+* [CompTIA Security+](https://www.credly.com/badges/04a9d5cf-6ca6-4005-abed-8f3cf794d7a5/public_url)
+* [Google IT Support Professional Certificate](https://coursera.org/share/fb76531b6c507f5f5706789bf070294e)
+* [CISCO IT Essentials](https://www.credly.com/badges/023f1311-691f-4d6b-a3e0-82139a6672ec/public_url)
+* [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/3c399382-b11e-42b4-b029-81a7df651ce4/public_url)
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c2379883-0a51-47c6-a0c2-da6f2039a1c1/public_url)
+
+
 <!-- <h3 align="center">Certifications:</h3>
 <img src="/img/aws.png" alt="AWS Cloud Practitioner" width="130" height="130" align="center"> -->
 
