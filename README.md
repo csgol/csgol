@@ -45,9 +45,9 @@
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
+* [Azure SOC Honeynet](https://github.com/csgol/Azure-SOC-Honeynet)
 * [Threat Fetch](https://github.com/csgol/ThreatFetch)
 * [News Scraper](https://github.com/csgol/news-scraper-2.0)
-* [Pokemon API Mobile App](https://github.com/csgol/pokemon-api-react-native)
 
 ###
 <!-- <h3 align="center">Certifications:</h3>
