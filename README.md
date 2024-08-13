@@ -45,7 +45,7 @@
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
-* [Azure SOC Honeynet](https://github.com/csgol/Cloud-SOC-Honeynet)
+* [Cloud SOC Honeynet](https://github.com/csgol/Cloud-SOC-Honeynet)
 * [Threat Fetch](https://github.com/csgol/ThreatFetch)
 * [News Scraper](https://github.com/csgol/news-scraper-2.0)
 
