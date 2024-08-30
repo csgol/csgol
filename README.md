@@ -28,7 +28,7 @@
 - ☕️ - Current Cyber Security Graduate Student
 - 📚 - Always Learning
 - 📝 Writing up my [notes](https://csgol.github.io/notes/)
-- 💻 - Focusing on Pentesting
+- 💻 - Focusing on HackTheBox
 - 🔭 I’m currently working on **Offensive Security**
 
 ---
