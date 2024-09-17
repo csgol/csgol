@@ -28,8 +28,8 @@
 - ☕️ - Current Cyber Security Graduate Student
 - 📚 - Always Learning
 - 📝 Writing up my [notes](https://csgol.github.io/notes/)
-- 💻 - Focusing on HackTheBox
-- 🔭 I’m currently working on **Offensive Security**
+- 💻 - Focusing on offensive security
+- 🔭 I’m currently working on **CYSA+**
 
 ---
 
