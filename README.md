@@ -96,8 +96,6 @@
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csgol&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
  </a></p>-->
 
----
-
 <!-- <p align="center"><a href="https://github.com/anuraghazra/convoychat">
   <img width="425px" src="https://github-readme-stats.vercel.app/api?username=csgol&theme=solarized-dark&show_icons=true&locale=en&layout=compact">
 </a></p> -->
@@ -112,10 +110,10 @@
 
 ###
 
-<!-- Visitor count -->
+<!-- Visitor count
 <div align="center">
   <img src="https://profile-counter.glitch.me/csgol/count.svg?"  />
-</div>
+</div> -->
 
 ###
 <!--- -->
