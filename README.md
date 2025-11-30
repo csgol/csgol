@@ -25,7 +25,7 @@
 
 ---
 
-- ☕️ - Current Cyber Security Graduate Student
+- ☕️ - Cyber Solutions Analyst
 - 📚 - Always Learning
 - 📝 Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on offensive security
