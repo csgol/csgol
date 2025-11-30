@@ -90,11 +90,11 @@
 
 [comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csgol)
 
-[comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csgol&show_icons=true&theme=radical)-->
+[comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csgol&show_icons=true&theme=radical)
 
 <p align="center"><a href="https://github.com/csgol/github-readme-stats">
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csgol&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
- </a></p>
+ </a></p>-->
 
 ---
 
