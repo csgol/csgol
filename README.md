@@ -84,11 +84,9 @@
 
 ---
 
-[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=csgol)](https://github.com/csgol/github-readme-stats" alt="csa" /></p>)
-<!----- [comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csagold&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="csa" /></p>)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csgol&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="csa" /></p>)
 
-[comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csagold&show_icons=true&theme=solarized-dark&#41; )
+[comment]: <> (![Chris's github stats]&#40;https://github-readme-stats.vercel.app/api?username=csgol&show_icons=true&theme=solarized-dark&#41; )
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csgol&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
