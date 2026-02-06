@@ -29,7 +29,7 @@
 - 📚 - Always Learning
 - 📝 Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on offensive security
-- 🔭 I’m currently working on **CYSA+**
+- 🔭 I’m currently working on **Offensive Security**
 
 ---
 
