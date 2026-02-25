@@ -58,6 +58,12 @@
 
 ---
 
+## 🛡️ TryHackMe
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/csgol.png)](https://tryhackme.com/p/csgol)
+
+---
+
 ###
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
