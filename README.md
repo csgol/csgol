@@ -58,10 +58,11 @@
 
 ---
 
-## 🛡 TryHackMe
-
+## 🛡️ TryHackMe
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/csgol.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/csgol">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/csgol.png" alt="TryHackMe Badge">
+  </a>
 </p>
 
 ---
