@@ -59,9 +59,9 @@
 ---
 
 ## 🛡️ TryHackMe
-<p align="center">
+<p align="left">
   <a href="https://tryhackme.com/p/csgol">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/csgol.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/csgol.png" alt="Your Image Badge" />
   </a>
 </p>
 
