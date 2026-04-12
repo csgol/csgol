@@ -41,11 +41,11 @@
 
 ---
 
-- ☕️ - Cyber Solutions Analyst
+- ☕️ - Pentester
 - 📚 - Always Learning
 - 📝 Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on offensive security
-- 🔭 I’m currently working on **Offensive Security**
+- 🔭 I’m currently working on **OSCP**
 
 ---
 
