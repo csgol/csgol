@@ -42,10 +42,11 @@
 ---
 
 - ☕️ - Pentester
+- 📜 - Master of Science - Information & Cyber Security
 - 📚 - Always Learning
-- 📝 Writing up my [notes](https://csgol.github.io/notes/)
+- 📝 - Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on offensive security
-- 🔭 I’m currently working on **OSCP**
+- 🔭 - I’m currently working on **OSCP**
 
 ---
 
