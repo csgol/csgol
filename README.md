@@ -69,6 +69,7 @@
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
+* [c2_aws](https://github.com/csgol/c2_aws)
 * [Cloud SOC Honeynet](https://github.com/csgol/Cloud-SOC-Honeynet)
 * [Dowser](https://github.com/csgol/dowser)
 * [Domainsmith](https://github.com/csgol/domainsmith)
