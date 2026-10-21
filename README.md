@@ -43,7 +43,6 @@
 
 - ☕️ - Pentester
 - 📜 - M.S. Information & Cyber Security
-- 📚 - Always Learning
 - 📝 - Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on offensive security
 - 🔭 - I’m currently working on **OSCP**
