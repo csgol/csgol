@@ -42,7 +42,7 @@
 ---
 
 - ☕️ - Pentester
-- 📜 - Master of Science - Information & Cyber Security
+- 📜 - M.S. Information & Cyber Security
 - 📚 - Always Learning
 - 📝 - Writing up my [notes](https://csgol.github.io/notes/)
 - 💻 - Focusing on offensive security
